@@ -74,8 +74,6 @@ export default {
 			bannerCat: [{},{},{}],
 			hotList: [],
 			
-			allLoaded: true,
-			
 			page: 1,
 			allLoaded: false
 		}
